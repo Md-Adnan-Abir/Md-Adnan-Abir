@@ -6,7 +6,7 @@ I'm a Tech-Enthusiast 💻 . I always like to learn new things from others as mu
 
 <ins>Skills</ins>: Microsoft Office (MIcrosoft Office Word, Microsoft Office Excel, Microsoft Office Powerpoint) / Adobe (Adobe Illustrator, Adobe Photoshop) / HTML & CSS / Digital Marketing and social media / Data Analytics, Data Visualization / Digital Project Management / basic of C, Java, Python programming 
 
-- 🔭 I’m currently working on a animation project by myself. 
+- 🔭 I’m currently working on an animation project by myself. 
 - 🌱 I’m currently learning  Data Structures and Algorithms. 
 
 
