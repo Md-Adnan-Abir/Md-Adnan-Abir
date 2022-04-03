@@ -6,8 +6,8 @@ I'm a Tech-Enthusiast 💻 . I always like to learn new things from others as mu
 
 <ins>Skills</ins>: Microsoft Office (MIcrosoft Office Word, Microsoft Office Excel, Microsoft Office Powerpoint) / Adobe (Adobe Illustrator, Adobe Photoshop) / HTML & CSS / Digital Marketing and social media / Data Analytics, Data Visualization / Digital Project Management / basic of C, Java, Python programming 
 
-- 🔭 I’m currently working on an animation project by myself. 
-- 🌱 I’m currently learning  Data Structures and Algorithms. 
+- 🔭 I’m currently learning Deutsch language. 
+- 🌱 I’m currently learning  Data Structures and Algorithms with Python 3.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Adnan-Abir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-adnan-abir-364a771b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/adnan.auric/)  
